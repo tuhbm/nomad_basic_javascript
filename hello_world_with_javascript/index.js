@@ -1,0 +1,1 @@
+console.log('I\' Working. I\'m JS. I\'m Beatuful. I\'m worth it');

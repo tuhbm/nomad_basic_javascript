@@ -7,7 +7,7 @@ function getTime() {
     const hours = date.getHours();
     const seconds = date.getSeconds();
     clockTitle.innerText = `${compileTime(hours)}:${compileTime(minutes)}:${compileTime(seconds)}`;
-    console.log('getTime');
+    // console.log('getTime');
 }
 
 function compileTime(time) {
